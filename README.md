@@ -1,0 +1,1 @@
+This Repository consists of a set of problem statements and their soltuions with documentations of how the solutions were reached. These assignments were a part of the Applied Programming Lab course (EE2703) of IIT Madras. 
